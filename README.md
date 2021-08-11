@@ -10,5 +10,5 @@ OR
 -> Run through Unity by importing the project.
 
 
-# Screenshots
-<img src = "NinjaRunScreenshot.png" width = 200>
+# Screenshot
+<img src = "NinjaRunScreenshot.png" width = 500>
