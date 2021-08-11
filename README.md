@@ -11,4 +11,4 @@ OR
 
 
 # Screenshots
-<img src = "NinjaRun Screenshot.png.jpg" width = 200>
+<img src = "NinjaRunScreenshot.png" width = 200>
